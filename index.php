@@ -8,3 +8,6 @@ $var4 = "git is very powerful";
 $var5 = "git is cute";
 $var6 = "git is wonderful";
 $var7 = "git is small";
+
+echo "hllo world";
+echo "welcome to sixstar";
